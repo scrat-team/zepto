@@ -1,7 +1,8 @@
 {
   "name": "zepto",
+  "exports" : "Zepto",
   "repo": "elf/zepto",
-  "description": "A custom-built zepto",
+  "description": "A custom-built zepto - zepto event fx data selector",
   "version": "1.1.2",
   "keywords": ["zepto", "selector", "$", "jquery"],
   "scripts": ["index.js"],
