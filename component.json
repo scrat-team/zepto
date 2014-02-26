@@ -1,0 +1,12 @@
+{
+  "name": "zepto",
+  "repo": "elf/zepto",
+  "description": "A custom-built zepto",
+  "version": "1.1.2",
+  "keywords": ["zepto", "selector", "$", "jquery"],
+  "scripts": ["index.js"],
+  "remotes": [
+    "http://git.ucweb.local"
+  ],
+  "license": "MIT"
+}
