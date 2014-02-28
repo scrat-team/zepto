@@ -1,4 +1,4 @@
-0.1.0 / 2014-02-26
+1.1.2 / 2014-02-26
 ------------------
 
-* init
+* packed modules: zepto event fx data selector
