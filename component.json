@@ -1,13 +1,10 @@
 {
   "name": "zepto",
+  "repo": "scrat-team/zepto",
   "exports" : "Zepto",
-  "repo": "elf/zepto",
   "description": "A custom-built zepto - zepto event fx data selector",
   "version": "1.1.2",
   "keywords": ["zepto", "selector", "$", "jquery"],
   "scripts": ["index.js"],
-  "remotes": [
-    "http://git.ucweb.local"
-  ],
   "license": "MIT"
 }
